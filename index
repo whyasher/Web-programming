@@ -44,10 +44,33 @@ farmers to consumers, ensuring quality and affordability.
 </div>
 </section>
 
+<section class="features">
+  <h3>Our Popular Products</h3>
+
+  <div class="feature-box">
+    <div class="card">
+    <img src="https://hips.hearstapps.com/hmg-prod/images/fresh-vegetables-in-basket-on-wooden-background-royalty-free-image-1676394780.jpg?crop=1xw:0.84415xh;0,0.108xh" alt="Vegetables">
+      <p>Fresh Vegetables</p>
+  </div>
+
+    <div class="cards">
+      <img src="https://d1hm90tax3m3th.cloudfront.net/web/vegetables.jpg" alt="Organic Fruits">
+      <p>Organic Fruits</p>
+    </div>
+
+    <div class="cardss">
+      <img src="https://foodprint.org/wp-content/uploads/2023/09/AdobeStock_89115245-1-e1695996572754.jpeg" alt="Grains">
+      <p>Whole Grains</p>
+    </div>
+  </div>
+</section>
+
+
 <footer>
-<p>&copy; 2025 Ningo Prampram District Tech Hub</p>
+<p>&copy; Ningo Prampram District Tech Hub</p>
 </footer>
 
 
 </body>
+
 </html>
